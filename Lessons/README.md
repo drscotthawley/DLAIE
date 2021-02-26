@@ -1,5 +1,7 @@
 # Lessons
 
+## Update: Moving to Jupyter files because GitHub won't render stuff. Try [Week1.ipynb](Week1.ipynb)
+
 ## Week 1: Not All ML is DL
 
 ![equation](https://latex.codecogs.com/png.download?DL%5Csubset%20ML%5Csubset%20AI)
