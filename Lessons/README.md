@@ -26,7 +26,13 @@ What if you don't have well-defined features?  What if you want to extract infor
 
 Here's a video of me being silly, using a (non-NN) "face detector" algorithm which acts an input to a ML algorithm that controls the pitch of an audio oscillator:
 
+embed:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j8S9Cx0xnbs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+SVG trick:
+
+![faceosc](../images/embed_faceosc.svg)
 
 
 
