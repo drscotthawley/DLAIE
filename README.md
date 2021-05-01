@@ -7,7 +7,7 @@ Welcome to the "draft version" of the course "Deep Learning &amp; AI Ethics" tha
 
 **Instructor:** [Scott H. Hawley](https://hedges.belmont.edu/~shawley) 
 
-**Prerequisite:** [Python coding proficiency](https://www.learnpython.org/). 
+**Prerequisite:** [Some Python coding proficiency](https://www.learnpython.org/). (cf ["Lesson 2: Python/Jupyter Review"](https://github.com/drscotthawley/DLAIE/blob/main/Lessons/2_PythonReview.ipynb))
 
 **Course Description:**  This course presents an overview of current machine learning techniques and applications, with particular attention to deep neural network models. Applications will include computer vision, audio signal processing, and natural language processing, for tasks such as classification and regression, and generative models. We will learn how these systems work, and will write code to train them and to probe their outputs and behavior. As an integrated part of the course, we will give attention to issues of ethics & society in training and deploying such models, issues including bias, transparency and accountability. 
 
