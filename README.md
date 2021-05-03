@@ -5,7 +5,9 @@
 
 ## Welcome 
 
-Welcome to the "draft version" of the course "Deep Learning &amp; AI Ethics" that will be officially taught at Belmont University in Fall 2021!  This course includes an "embedded ethics" pedagogical approach in which we will build DL systems, probe them to try to understand how they work, and investigate their ethical implications.  (Why not have two separate classes, one for DL and another for AI Ethics?  Because I teach at a small department am thankful to get to teach *one* advanced elective every *other* year!) 
+Welcome to the "draft version" of the course "Deep Learning &amp; AI Ethics" that will be officially taught at Belmont University in Fall 2021!  This course includes an "embedded ethics" pedagogical approach in which we will build DL systems, probe them to try to understand how they work, and investigate their ethical implications.  
+
+*(Why not have two separate classes, one for DL and another for AI Ethics?  Because I teach at a small department am thankful to get to teach *one* advanced elective every *other* year!)*
 
 **Instructor:** [Scott H. Hawley](https://hedges.belmont.edu/~shawley) 
 
