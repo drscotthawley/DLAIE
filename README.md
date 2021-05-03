@@ -15,11 +15,14 @@ Welcome to the "draft version" of the course "Deep Learning &amp; AI Ethics" tha
 
 **Course Description:**  This course presents an overview of current machine learning techniques and applications, with particular attention to deep neural network models. Applications will include computer vision, audio signal processing, and natural language processing, for tasks such as classification and regression, and generative models. We will learn how these systems work, and will write code to train them and to probe their outputs and behavior. As an integrated part of the course, we will give attention to issues of ethics & society in training and deploying such models, issues including bias, transparency and accountability. 
 
-**Textbooks:** We will mostly be using web links, videos, and lecture notes. As references, two excellent free online textbooks are
+**Textbooks:** We will mostly be using web links, videos, and lecture notes. 
 
+Required: Since I was required to supply a "required text", we'll use the one from my Gen-Ed Machine Learning course in Spring 2019: [Hello World: Being Human in the Age of Algorithms](https://wwnorton.com/books/Hello-World) by Hannah Fry.  It's an accessible and engaging survey of AI technology and ethics. 
+
+As technical textbook references, three excellent FREE online textbooks are:
 * [Neural Networks and Deep Learning](http://deeplearningandneuralnetworks.com/) by Michael Nielsen.
 * [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
-
+* [The FastAI Book, aka "fastbook": "Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD"](https://github.com/fastai/fastbook) by Jeremy Howard & Sylvain Gugger. This is written entirely as executable Jupyter notebooks.
 
 
 ## Overall Plan
