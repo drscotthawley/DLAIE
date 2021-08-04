@@ -50,7 +50,7 @@ As technical references, three excellent FREE online textbooks are:
 
 ## Lessons
 
-See the [Lessons](Lessons/) area
+See the [Lessons](Lessons/) area.  These go with the [companion videos on YouTube](https://www.youtube.com/playlist?list=PLobhwAFRfHjDLcvyy2nB75CzeDa7gLQ09).
 
 
 
