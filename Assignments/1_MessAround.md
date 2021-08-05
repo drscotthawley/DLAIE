@@ -1,6 +1,6 @@
 # Assignment 1: "Mess Around"
 
-*(This is to be done over the first weekend of class, i.e. Friday to Monday).* 
+*(This is to be done over the first weekend of class, i.e. Friday to Monday.)* 
 
 
 ## The playground(s):
