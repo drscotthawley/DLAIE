@@ -47,4 +47,5 @@ On Monday, we will "gather" synchronously online for class and share verbally wi
 ## P.S.: 
 
 Note [recent tweet by Gradio.App CEO](https://twitter.com/abidlabs/status/1423067498862219267): 
+
 ![Abid tweet](https://i.imgur.com/ayd6JjR.png)
