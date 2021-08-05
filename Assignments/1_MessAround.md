@@ -10,8 +10,9 @@ The following websites have (typically several different) Deep Learning demos th
 * [Tensorflow.js Demos](https://www.tensorflow.org/js/demos)
 * [ML4A (ML for Arists) Demos](https://ml4a.github.io/demos/)
 * [Google PAIR's Explorables](https://pair.withgoogle.com/explorables/), [Google Magenta's Music Demos](https://magenta.tensorflow.org/demos/), [Google QuickDraw](https://quickdraw.withgoogle.com/), [Teachable Machine](https://teachablemachine.withgoogle.com/)
-* [Object Detector](https://hedges.belmont.edu/objdet/) (Hawley's web page)
 * [Gradio.app](https://gradio.app/) hosts lots of demos.  For for basics, just scroll down. For advanced examples see [Gradio Hub](https://gradio.app/hub).
+* [Object Detector](https://hedges.belmont.edu/objdet/) (On Hawley's web page)
+
 * [ConvNet.js](https://cs.stanford.edu/people/karpathy/convnetjs/) by Karpathy (now head of Tesla AI)
 * [Interactive ML Experiments](https://trekhleb.dev/machine-learning-experiments/#/)
 * [TensorFire](https://tenso.rs/)
