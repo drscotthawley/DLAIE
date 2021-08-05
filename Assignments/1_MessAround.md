@@ -19,7 +19,7 @@ The following websites have (typically several different) Deep Learning demos th
   * [Polo Club](https://poloclub.github.io/) at Georgia Tech (scroll down). More research-oriented projects
   * Hugging Face 🤗 demos: [Write With Transformer](https://transformer.huggingface.co/), [HTML for NLP](https://huggingface.co/hmtl/), [NeuralCoref](https://huggingface.co/coref/)
   * [Distil.pub](https://distill.pub/), interactive research reviews
-* VQGAN+CLIP (text->art), via [Colab] or [HuggingFace Spaces](https://huggingface.co/spaces/akhaliq/VQGAN_CLIP)
+* VQGAN+CLIP (text->art), via [Colab](https://sourceful.us/doc/935/introduction-to-vqganclip) or [HuggingFace Spaces](https://huggingface.co/spaces/akhaliq/VQGAN_CLIP)
 
 
 
