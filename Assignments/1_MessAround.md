@@ -46,6 +46,5 @@ On Monday, we will "gather" synchronously online for class and share verbally wi
 
 ## P.S.: 
 
-Note recent tweet by Gradio.App CEO: 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The way we teach ML doesn&#39;t consider real-world reliability. We teach:<br>1. pick static dataset (MNIST)<br>2. split into train/test<br>3. train until high test acc<br>4. move on<br><br>Instead of moving on, we should:<br>5. deploy the model<br>6. get users to break models<br>7. adapt dataset to fix issues</p>&mdash; Abubakar Abid (@abidlabs) <a href="https://twitter.com/abidlabs/status/1423067498862219267?ref_src=twsrc%5Etfw">August 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Note [recent tweet by Gradio.App CEO](https://twitter.com/abidlabs/status/1423067498862219267): 
+![Abid tweet](https://i.imgur.com/ayd6JjR.png)
