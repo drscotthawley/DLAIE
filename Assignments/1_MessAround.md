@@ -26,7 +26,7 @@ The following websites have (typically several different) Deep Learning demos th
 
 ## Your task:
 
-Over the weekend, pick any two demos and "mess around," i.e., explore them. For example...
+Over the weekend, pick any two demos from any site(s) and "mess around," i.e., explore them. For example...
 
 * Try giving them different kinds of inputs. 
 
