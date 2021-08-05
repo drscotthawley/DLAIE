@@ -9,7 +9,7 @@ The following websites have (typically several different) Deep Learning demos th
 
 * [Tensorflow.js Demos](https://www.tensorflow.org/js/demos)
 * [ML4A (ML for Arists) Demos](https://ml4a.github.io/demos/)
-* [Google PAIR's Explorables](https://pair.withgoogle.com/explorables/)
+* [Google PAIR's Explorables](https://pair.withgoogle.com/explorables/), [Google Magenta's Music Demos](), [Google QuickDraw](https://quickdraw.withgoogle.com/), [Teachable Machine](https://teachablemachine.withgoogle.com/)
 * [Object Detector](https://hedges.belmont.edu/objdet/) (Hawley's web page)
 * [Gradio.app](https://gradio.app/).  For for basics, just scroll down. For advanced examples see [Gradio Hub](https://gradio.app/hub).
 * [ConvNet.js](https://cs.stanford.edu/people/karpathy/convnetjs/) by Karpathy (now head of Tesla AI)
@@ -20,6 +20,7 @@ The following websites have (typically several different) Deep Learning demos th
   * Hugging Face 🤗 demos: [Write With Transformer](https://transformer.huggingface.co/), [HTML for NLP](https://huggingface.co/hmtl/), [NeuralCoref](https://huggingface.co/coref/)
   * [Distil.pub](https://distill.pub/), interactive research reviews
 * VQGAN+CLIP (text->art), via [Colab](https://sourceful.us/doc/935/introduction-to-vqganclip) or [HuggingFace Spaces](https://huggingface.co/spaces/akhaliq/VQGAN_CLIP)
+* DLOlogy ["Top 10 DL Demos to Run in Your Browser"](https://www.dlology.com/blog/top-10-deep-learning-experiences-run-on-your-browser/)
 
 
 
