@@ -30,6 +30,6 @@ The approach to this course, the topics chosen, the structure of assignments, an
 
 * ["Integrating Ethics into Introductory Programming Classes"](https://doi.org/10.1145/3408877.3432510) by
 Casey Fiesler, Mikhaila Friske, Natalie Garrett, Felix Muzny, Jessie J. Smith, Jason Zietz, 
-SIGCSE '21: *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (March 2021). https://doi.org/10.1145/3408877.3432510
+SIGCSE '21: *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (March 2021).
 
-* ["What Do We Teach When We Teach Tech Ethics? A Syllabi Analysis"](https://doi.org/10.1145/3328778.3366825) by Casey Fiesler, Natalie Garrett, Nathan Beard, SIGCSE '20: *Proceedings of the 51st ACM Technical Symposium on Computer Science Education* (February 2020). https://doi.org/10.1145/3328778.3366825
+* ["What Do We Teach When We Teach Tech Ethics? A Syllabi Analysis"](https://doi.org/10.1145/3328778.3366825) by Casey Fiesler, Natalie Garrett, Nathan Beard, SIGCSE '20: *Proceedings of the 51st ACM Technical Symposium on Computer Science Education* (February 2020).
