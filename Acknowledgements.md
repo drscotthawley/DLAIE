@@ -1,6 +1,6 @@
 # Acknowledgements
 
-## Other courses taken by the instructor
+## Courses that have influenced the instructor
 The approach to this course, the topics chosen, the structure of assignments, and more, are likely to have been influenced by the varous online courses taken by the instructor, some of which are listed below. AFAIK, unless otherwise noted, all lessons and assignments are my own "original synthesis" based on a variety of sources. All of the following courses are excellent, by the way!
 
 * [AI Ethics for Business](https://seattleupce.catalog.instructure.com/browse/iett/courses/ai-ethics-for-business). Instructors: Nathan Colaner, Tracy Kosa, and Mark Chinen, Seattle U., [Instructure.com](http://instructure.com/), Feb. 2021.
