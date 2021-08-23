@@ -22,7 +22,7 @@ The following websites have (typically several different) Deep Learning demos th
   * [Distil.pub](https://distill.pub/), interactive research reviews
 * VQGAN+CLIP (text->art), via [Colab](https://sourceful.us/doc/935/introduction-to-vqganclip) or [HuggingFace Spaces](https://huggingface.co/spaces/akhaliq/VQGAN_CLIP)
 * DLOlogy ["Top 10 DL Demos to Run in Your Browser"](https://www.dlology.com/blog/top-10-deep-learning-experiences-run-on-your-browser/)
-* Audio: Open-Unmix (Source Separation) Demo
+* [Open-Unmix Audio (Source Separation) Demo](https://open.unmix.app)
 
 
 ## Your task:
