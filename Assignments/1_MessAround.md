@@ -22,7 +22,7 @@ The following websites have (typically several different) Deep Learning demos th
   * [Distil.pub](https://distill.pub/), interactive research reviews
 * VQGAN+CLIP (text->art), via [Colab](https://sourceful.us/doc/935/introduction-to-vqganclip) or [HuggingFace Spaces](https://huggingface.co/spaces/akhaliq/VQGAN_CLIP)
 * DLOlogy ["Top 10 DL Demos to Run in Your Browser"](https://www.dlology.com/blog/top-10-deep-learning-experiences-run-on-your-browser/)
-
+* Audio: Open-Unmix (Source Separation) Demo
 
 
 ## Your task:
@@ -38,11 +38,14 @@ Over the weekend, pick any two demos from any site(s) and "mess around," i.e., e
 
 Find something that interests you, that's fun or intriguing for you to explore. **You should spend roughly an hour investigating two demos, but feel free to spend more time** if you get hooked! 
 
+* Then there will be two more things for you to do:
 
 
 ## Assessment:
 
-On Monday, we will "gather" synchronously online for class and share verbally with the class what we did and what we learned. Come prepared to speak! 
+1. Write a paragraph each (~150-200 words) each on each thing you tried. Tell us what it was, what you liked or didn't like, how well it worked, and any future applications you imagine for this technology. Upload this writing on Blackboard before class on Monday. 
+
+2. On Monday, we will "gather" synchronously online for class and share verbally with the class what we did and what we learned. Come prepared to speak! 
 
 
 
