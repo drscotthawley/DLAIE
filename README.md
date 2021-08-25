@@ -56,7 +56,7 @@ See the [Lessons](Lessons/) area.  These go with the [companion videos on YouTub
 
 ## Assignments
 
-See the Assignments area, TBD.
+See the [Assignments](https://github.com/drscotthawley/DLAIE/tree/main/Assignments) area.
 
 ## [Acknowledgements](Acknowledgements.md)
 
