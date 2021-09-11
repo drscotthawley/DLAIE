@@ -13,6 +13,8 @@ Welcome to the "draft version" of the course "Deep Learning &amp; AI Ethics" tha
 
 This course presents an overview of current machine learning techniques and applications, with particular attention to deep neural network models. Applications will include computer vision, audio signal processing, and natural language processing, for tasks such as classification and regression, and generative models. We will learn how these systems work, and will write code to train them and to probe their outputs and behavior. As an integrated part of the course, we will give attention to issues of ethics & society in training and deploying such models, issues including bias, transparency and accountability. 
 
+#### [Syllabus Link](https://www.dropbox.com/s/qb3udd4eo23viwu/HawleyS_PHY3895_Fall2021.pdf?dl=0) (PDF)
+
 ### **Instructor:** 
 
 [Scott H. Hawley](https://hedges.belmont.edu/~shawley) 
