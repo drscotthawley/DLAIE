@@ -33,3 +33,10 @@ Casey Fiesler, Mikhaila Friske, Natalie Garrett, Felix Muzny, Jessie J. Smith, J
 SIGCSE '21: *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (March 2021).
 
 * ["What Do We Teach When We Teach Tech Ethics? A Syllabi Analysis"](https://doi.org/10.1145/3328778.3366825) by Casey Fiesler, Natalie Garrett, Nathan Beard, SIGCSE '20: *Proceedings of the 51st ACM Technical Symposium on Computer Science Education* (February 2020).
+
+
+## Tools
+
+* ["GitHub in the Data Science Classroom: Our Experience and Lessons Learned"](https://towardsdatascience.com/github-in-the-data-science-classroom-our-experience-and-lessons-learned-2cc1b5f80702) by Jon Reifschneider of Duke University, Dec 4, 2020
+* [NBGrader](https://nbgrader.readthedocs.io/en/stable/)
+* ["Getting your class going with Jupyter"](https://jupyter4edu.github.io/jupyter-edu-book/getting-going.html)
