@@ -26,7 +26,7 @@ The approach to this course, the topics chosen, the structure of assignments, an
 - [Machine Learning](https://www.coursera.org/learn/machine-learning). Instructor: Andrew Ng, Stanford, U. [Coursera.com](http://coursera.com/) , Fall 2017.
 
 
-## Pedagogy of Integrated (AI) Ethics:
+## Pedagogy of Integrated (AI) Ethics
 
 * ["Integrating Ethics into Introductory Programming Classes"](https://doi.org/10.1145/3408877.3432510) by
 Casey Fiesler, Mikhaila Friske, Natalie Garrett, Felix Muzny, Jessie J. Smith, Jason Zietz, 
