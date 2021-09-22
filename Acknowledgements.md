@@ -1,6 +1,6 @@
 # Acknowledgements
 
-## Courses that have influenced the instructor
+## Courses that have influenced this one
 The approach to this course, the topics chosen, the structure of assignments, and more, are likely to have been influenced by the varous online courses taken by the instructor, some of which are listed below. AFAIK, unless otherwise noted, all lessons and assignments are my own "original synthesis" based on a variety of sources. All of the following courses are excellent, by the way!
 
 * [AI Ethics for Business](https://seattleupce.catalog.instructure.com/browse/iett/courses/ai-ethics-for-business). Instructors: Nathan Colaner, Tracy Kosa, and Mark Chinen, Seattle U., [Instructure.com](http://instructure.com/), Feb. 2021.
@@ -26,10 +26,17 @@ The approach to this course, the topics chosen, the structure of assignments, an
 - [Machine Learning](https://www.coursera.org/learn/machine-learning). Instructor: Andrew Ng, Stanford, U. [Coursera.com](http://coursera.com/) , Fall 2017.
 
 
-## Pedagogy of Integrated (AI) Ethics:
+## Pedagogy of Integrated (AI) Ethics
 
 * ["Integrating Ethics into Introductory Programming Classes"](https://doi.org/10.1145/3408877.3432510) by
 Casey Fiesler, Mikhaila Friske, Natalie Garrett, Felix Muzny, Jessie J. Smith, Jason Zietz, 
 SIGCSE '21: *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education* (March 2021).
 
 * ["What Do We Teach When We Teach Tech Ethics? A Syllabi Analysis"](https://doi.org/10.1145/3328778.3366825) by Casey Fiesler, Natalie Garrett, Nathan Beard, SIGCSE '20: *Proceedings of the 51st ACM Technical Symposium on Computer Science Education* (February 2020).
+
+
+## Tools
+
+* ["GitHub in the Data Science Classroom: Our Experience and Lessons Learned"](https://towardsdatascience.com/github-in-the-data-science-classroom-our-experience-and-lessons-learned-2cc1b5f80702) by Jon Reifschneider of Duke University, Dec 4, 2020
+* [NBGrader](https://nbgrader.readthedocs.io/en/stable/)
+* ["Getting your class going with Jupyter"](https://jupyter4edu.github.io/jupyter-edu-book/getting-going.html)
