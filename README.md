@@ -62,7 +62,7 @@ See the [Assignments](https://github.com/drscotthawley/DLAIE/tree/main/Assignmen
 
 
 ## Licence
-These materials are governed by Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. You may use them, with attribution, for non-commercial purposes.  
+These materials are governed by [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/). You may use them, with attribution, for non-commercial purposes.  As [Francois Fleuret says], "More simply: I am okay with this material being used for regular academic teaching, but definitely not for a book / youtube loaded with ads / whatever monetization model I am not aware of."
 
 
 ## Acknowledgements
