@@ -60,7 +60,15 @@ See the [Lessons](Lessons/) area.  These go with the [companion videos on YouTub
 
 See the [Assignments](https://github.com/drscotthawley/DLAIE/tree/main/Assignments) area.
 
-## [Acknowledgements](Acknowledgements.md)
+
+## Licence
+These materials are governed by Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. You may use them, with attribution, for non-commercial purposes.  
+
+
+## Acknowledgements
+See [Acknowledgements](Acknowledgements.md)
+
+
 
 ---
 
