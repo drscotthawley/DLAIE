@@ -5,15 +5,14 @@
 
 ## Welcome 
 
-Welcome to the "draft version" of the course "Deep Learning &amp; AI Ethics" that will be officially taught at Belmont University in Fall 2021!  This course includes an "embedded ethics" pedagogical approach in which we will build DL systems, probe them to try to understand how they work, and investigate their ethical implications.  
+Welcome to the GitHub repo of the course "Deep Learning &amp; AI Ethics" course taught taught at Belmont University in Fall 2022!  This course includes an "embedded ethics" pedagogical approach in which we will build DL systems, probe them to try to understand how they work, and investigate their ethical implications.  
 
-*(Why not have two separate classes, one for DL and another for AI Ethics?  Because I teach at a small department am thankful to get to teach one advanced elective every other year!)*
 
 ### **Course Description:**  
 
 This course presents an overview of current machine learning techniques and applications, with particular attention to deep neural network models. Applications will include computer vision, audio signal processing, and natural language processing, for tasks such as classification and regression, and generative models. We will learn how these systems work, and will write code to train them and to probe their outputs and behavior. As an integrated part of the course, we will give attention to issues of ethics & society in training and deploying such models, issues including bias, transparency and accountability. 
 
-#### [Syllabus Link](https://www.dropbox.com/s/qb3udd4eo23viwu/HawleyS_PHY3895_Fall2021.pdf?dl=0) (PDF)
+#### [Syllabus Link](https://www.dropbox.com/s/al0gaiehleqfhmt/HawleyS_PHYBSADSC4420_Fall2022.pdf?dl=0) (PDF)
 
 ### **Instructor:** 
 
@@ -52,7 +51,7 @@ As technical references, three excellent FREE online textbooks are:
 
 ## Lessons
 
-See the [Lessons](Lessons/) area.  These go with the [companion videos on YouTube](https://www.youtube.com/playlist?list=PLobhwAFRfHjDLcvyy2nB75CzeDa7gLQ09).
+See the [Lessons](Lessons/) area.  These go with [companion videos on YouTube](https://www.youtube.com/playlist?list=PLobhwAFRfHjDLcvyy2nB75CzeDa7gLQ09).
 
 
 
@@ -72,4 +71,4 @@ See [Acknowledgements](Acknowledgements.md)
 
 ---
 
-(c) Scott H. Hawley, 2021.
+(c) Scott H. Hawley, 2021, 2022.
