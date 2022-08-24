@@ -1,6 +1,4 @@
-*under construction* 
-
-# Deep Learning & AI Ethics Course
+# Deep Learning & AI Ethics (DLAEI) Course 
 
 
 ## Welcome 
