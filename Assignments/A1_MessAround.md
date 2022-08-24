@@ -45,7 +45,7 @@ Find something that interests you, that's fun or intriguing for you to explore. 
 
 1. Write a paragraph each (~150-200 words) each on each thing you tried. Tell us what it was, what you liked or didn't like, how well it worked, and any future applications you imagine for this technology. Upload this writing on Blackboard before class on Monday. 
 
-2. On Monday, we will "gather" synchronously online for class and share verbally with the class what we did and what we learned. Come prepared to speak! 
+2. On Monday, we will meet for class and share verbally with the class what we did and what we learned. Come prepared to speak! 
 
 
 
