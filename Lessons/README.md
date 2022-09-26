@@ -5,7 +5,7 @@ Click on the "notebook" .ipynb files to read them, and then **note that**  GitHu
 For many of these lessons there are [corresponding videos on YouTube](https://www.youtube.com/playlist?list=PLobhwAFRfHjDLcvyy2nB75CzeDa7gLQ09).
 
 
-Direct links to notebook below (can also be found in the Lessons area):
+Direct links to notebook below:
 
 1. [Not All ML is DL](https://colab.research.google.com/github/drscotthawley/DLAIE/blob/main/Lessons/01_NotAllMLisDL.ipynb)  
 1. [Python Review](https://colab.research.google.com/github/drscotthawley/DLAIE/blob/main/Lessons/02_PythonReview.ipynb)  
