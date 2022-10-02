@@ -11,7 +11,7 @@ Direct links to notebook below:
 1. [Python Review](https://colab.research.google.com/github/drscotthawley/DLAIE/blob/main/Lessons/02_PythonReview.ipynb)  
 1. [NNs Fit Curves](https://colab.research.google.com/github/drscotthawley/DLAIE/blob/main/Lessons/03_NNsFitCurves.ipynb)  
 1. [Problematic Image Analyzer](https://colab.research.google.com/github/drscotthawley/DLAIE/blob/main/Lessons/04_ProblematicImageAnalyzer.ipynb)
-1. [Coding Logistic Regression](https://colab.research.google.com/github/drscotthawley/DLAIE/blob/main/Lessons/05_Coding_Logistic_Regression.ipynb)
+1. [Coding Logistic Regression](https://colab.research.google.com/github/drscotthawley/DLAIE/blob/main/Lessons/05_Coding_Logistic_Regression.ipynb), and [Neural Networks Automate Feature Engineering](https://colab.research.google.com/drive/1fQ_zZaT8Iasi5j03jtG1NQN7nswSW_70?usp=sharing)
 1. [ConvNets](https://colab.research.google.com/github/drscotthawley/DLAIE/blob/main/Lessons/06_ConvNets.ipynb)
 1. [NLP via HuggingFace Transformers](https://colab.research.google.com/github/drscotthawley/DLAIE/blob/main/Lessons/07_NLP_via_HuggingFace_Transformers.ipynb)
 1. [DeepNLP](https://colab.research.google.com/github/drscotthawley/DLAIE/blob/main/Lessons/08_DeeperNLP.ipynb)
