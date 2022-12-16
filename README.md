@@ -18,7 +18,7 @@ This course presents an overview of current machine learning techniques and appl
 
 ### **Prerequisite:** 
 
-[Some Python coding proficiency](https://www.learnpython.org/). (cf. ["Lesson 2: Python/Jupyter Review"](https://github.com/drscotthawley/DLAIE/blob/main/Lessons/2_PythonReview.ipynb))
+[Some Python coding proficiency](https://www.learnpython.org/). (cf. ["Lesson 2: Python/Jupyter Review"](https://github.com/drscotthawley/DLAIE/blob/main/Lessons/02_PythonReview.ipynb))
 
 ### Textbooks:
 
