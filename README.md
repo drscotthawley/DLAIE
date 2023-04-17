@@ -1,4 +1,4 @@
-# Deep Learning & AI Ethics (DLAEI) Course 
+# Deep Learning & AI Ethics (DLAIE) Course 
 
 
 ## Welcome 
