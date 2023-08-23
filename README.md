@@ -3,38 +3,49 @@
 
 ## Welcome 
 
-Welcome to the GitHub repo of the course "Deep Learning &amp; AI Ethics" course taught taught at Belmont University in Fall 2022!  This course includes an "embedded ethics" pedagogical approach in which we will build DL systems, probe them to try to understand how they work, and investigate their ethical implications.  
+Welcome to the GitHub repo of the course "Deep Learning &amp; AI Ethics" course taught taught at Belmont University in Fall 2023!  This course includes an "embedded ethics" pedagogical approach in which we will build DL systems, probe them to try to understand how they work, and investigate their ethical implications.  
 
-
-### **Course Description:**  
+## Course Description  
 
 This course presents an overview of current machine learning techniques and applications, with particular attention to deep neural network models. Applications will include computer vision, audio signal processing, and natural language processing, for tasks such as classification and regression, and generative models. We will learn how these systems work, and will write code to train them and to probe their outputs and behavior. As an integrated part of the course, we will give attention to issues of ethics & society in training and deploying such models, issues including bias, transparency and accountability. 
 
-#### [Syllabus Link](https://www.dropbox.com/s/al0gaiehleqfhmt/HawleyS_PHYBSADSC4420_Fall2022.pdf?dl=0) (PDF)
+## New content (ideas) for Fall 2023
+* Transformers (e.g., BERT, ChatGPT)
+* EU AI Act
+* Diffusion Models
+* Licensing/Copyright & (Training) Generative Models
+* Emphasis on fine-tuning, LoRAs
 
-### **Instructor:** 
+
+## [Syllabus Link](https://www.dropbox.com/s/al0gaiehleqfhmt/HawleyS_PHYBSADSC4420_Fall2022.pdf?dl=0) (PDF)
+
+
+## Instructor
 
 [Scott H. Hawley](https://hedges.belmont.edu/~shawley) 
 
-### **Prerequisite:** 
+
+## Prerequisite
 
 [Some Python coding proficiency](https://www.learnpython.org/). (cf. ["Lesson 2: Python/Jupyter Review"](https://github.com/drscotthawley/DLAIE/blob/main/Lessons/02_PythonReview.ipynb))
 
-### Textbooks:
+
+## Textbooks
 
 We will mostly be using web links, videos, and lecture notes.  The following will serve as textbooks:
 
-#### Required: 
+### Required
 
-* [Hello World: Being Human in the Age of Algorithms](https://wwnorton.com/books/Hello-World) by Hannah Fry.  This is an accessible and engaging survey of AI technology and ethics.  It is non-technical though. For technical references (again, beyond lecture notes and web links) we may refer to these supplemental textbooks:
+* [Hello World: Being Human in the Age of Algorithms](https://wwnorton.com/books/Hello-World) by Hannah Fry.  This is an accessible and engaging survey of AI technology and ethics. It is non-technical though. For technical references (again, beyond lecture notes and web links) we may refer to these supplemental textbooks:
 
-#### Supplemental:
+###  Supplemental
 
-As technical references, three excellent FREE online textbooks are:
+As technical references, a few excellent FREE online textbooks are:
 
 * [Neural Networks and Deep Learning](http://deeplearningandneuralnetworks.com/) by Michael Nielsen.
 * [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 * [The FastAI Book, aka "fastbook": "Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD"](https://github.com/fastai/fastbook) by Jeremy Howard & Sylvain Gugger. This is written entirely as executable Jupyter notebooks.
+* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) by François Fleuret (2023)
 
 
 ## Overall Plan
@@ -67,4 +78,4 @@ See [Acknowledgements](Acknowledgements.md)
 
 ---
 
-(c) Scott H. Hawley, 2021, 2022.
+(c) Scott H. Hawley, 2021-2023
