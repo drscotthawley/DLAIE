@@ -17,7 +17,7 @@ This course presents an overview of current machine learning techniques and appl
 * Emphasis on fine-tuning, LoRAs
 
 
-## [Syllabus Link](https://www.dropbox.com/s/al0gaiehleqfhmt/HawleyS_PHYBSADSC4420_Fall2022.pdf?dl=0) (PDF)
+## [Syllabus Link](https://www.dropbox.com/scl/fi/kgfs17hpk0kfydkasnroe/HawleyS_PHYBSADSC4420_Fall2023.pdf?rlkey=1jjbqymdwpf4vm2ot8f718w7b&dl=0) (PDF)
 
 
 ## Instructor
