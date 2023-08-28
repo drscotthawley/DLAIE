@@ -17,7 +17,7 @@ This course presents an overview of current machine learning techniques and appl
 * Emphasis on fine-tuning, LoRAs
 
 
-## [Syllabus Link](https://www.dropbox.com/s/al0gaiehleqfhmt/HawleyS_PHYBSADSC4420_Fall2022.pdf?dl=0) (PDF)
+## [Syllabus Link](https://www.dropbox.com/scl/fi/kgfs17hpk0kfydkasnroe/HawleyS_PHYBSADSC4420_Fall2023.pdf?rlkey=1jjbqymdwpf4vm2ot8f718w7b&dl=0) (PDF)
 
 
 ## Instructor
@@ -36,7 +36,7 @@ We will mostly be using web links, videos, and lecture notes.  The following wil
 
 ### Required
 
-* [Hello World: Being Human in the Age of Algorithms](https://wwnorton.com/books/Hello-World) by Hannah Fry.  This is an accessible and engaging survey of AI technology and ethics. It is non-technical though. For technical references (again, beyond lecture notes and web links) we may refer to these supplemental textbooks:
+* [Hello World: Being Human in the Age of Algorithms](https://wwnorton.com/books/Hello-World) by Hannah Fry,  (or equivalently, "...Age of the Machine" is the exact same book.) This is an accessible and engaging survey of AI technology and ethics. It is non-technical though. For technical references (again, beyond lecture notes and web links) we may refer to these supplemental textbooks:
 
 ###  Supplemental
 
