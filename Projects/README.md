@@ -20,7 +20,7 @@ You will do a project in this course. It can be on a topic you're interested in,
 
 ## "Deliverables:"
 
-* **Proposal**: Your first required work on this project will be a one-page proposal for your project, describing the concept of your project, its purpose (why you are doing it), a list of equipment/software/data you will obtain and use for the project, and a timeline consisting of various "milestones" to meet along the way and with which to track your progress.  **Due Friday Oct 22 by noon,**  uploaded as PDF to Blackboard.
+* **Proposal**: Your first required work on this project will be a one-page proposal for your project, describing the concept of your project, its purpose (why you are doing it), a list of equipment/software/data you will obtain and use for the project, and a timeline consisting of various "milestones" to meet along the way and with which to track your progress.  **Due Friday Oct 13 by noon,**  uploaded as PDF to Canvas.
 * **Presentation:** Scheduled for our final exam time period.  Since we have 2 hours and 12 students, that will mean 10 minutes per person -- note that 10 minutes goes by very quickly!  You will be asked to *prerecord* your presentation so that this can go smoothly. 
 
 
