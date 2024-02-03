@@ -78,4 +78,4 @@ See [Acknowledgements](Acknowledgements.md)
 
 ---
 
-(c) Scott H. Hawley, 2021-2023
+(c) Scott H. Hawley, 2021-2024
