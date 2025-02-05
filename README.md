@@ -3,7 +3,7 @@
 
 ## Welcome 
 
-Welcome to the GitHub repo of the course "Deep Learning &amp; AI Ethics" course taught taught at Belmont University in Fall 2023!  This course includes an "embedded ethics" pedagogical approach in which we will build DL systems, probe them to try to understand how they work, and investigate their ethical implications.  
+Welcome to the GitHub repo of the course "Deep Learning &amp; AI Ethics" course taught taught at Belmont University from 2019 to 2023!  This course includes an "embedded ethics" pedagogical approach in which we will build DL systems, probe them to try to understand how they work, and investigate their ethical implications.  
 
 ## Course Description  
 
